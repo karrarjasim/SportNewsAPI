@@ -15,7 +15,7 @@
         "maxLength": 100
       }
     },
-    "likes": { "int": { "min": 0, "max": 990000 } } 
+    "likes": { "int": { "min": 0, "max": 990000 } } ,
     "isDraft": {
       "boolean": {}
     },
