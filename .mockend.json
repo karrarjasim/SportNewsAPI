@@ -4,22 +4,29 @@
     "string": [
       "https://www.freeiconspng.com/uploads/land-rover-range-rover-car-png-25.png",
       "https://www.freeiconspng.com/uploads/black-cool-bmw-car-png-19.png",
-      "https://www.freeiconspng.com/uploads/mercedes-car-png-22.png"
+      "https://www.freeiconspng.com/uploads/mercedes-car-png-22.png",
+      "https://www.freeiconspng.com/uploads/mercedes-car-png-16.png",
+      "https://pngimg.com/uploads/kia/small/kia_PNG36.png",
+      "https://pngimg.com/uploads/kia/kia_PNG27.png"
     ]
   },
-    "title": {
-      "loremWords": {
-        "minLength": 5,
-        "maxLength": 20
-      }
+    "name": {
+      "string":[
+        "Honda",
+        "KIA",
+        "Land Rover",
+        "Mercedes",
+        
+        ]
     },
-    "body": {
+    "description": {
       "loremParagraphs": {
         "minLength": 50,
         "maxLength": 400
       }
     },
     "price": { "int": { "min": 0, "max": 990000 } } ,
+    "speed": { "int": { "min": 100, "max": 260 } } ,
     "isDraft": {
       "boolean": {}
     },
