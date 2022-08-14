@@ -21,13 +21,23 @@
     "vendor_name": {
       "string":[
         "Falah Hassan",
-        "Bareq",
+        "Bareq H.",
         "Ahmed Mones",
         "Asia Sama",
-        "Karrar",
-        "Taha",
-        "Jinan",
+        "Karrar Jasim",
+        "Taha Saad",
+        "Jinan Badir",
         "Mohammed"
+         ]
+    },
+    "country":"Iraq",
+     "city": {
+      "string":[
+        "Mosul",
+        "Baghdad",
+        "Basra",
+        "Erbil",
+        "Najaf"
          ]
     },
     "description": {
