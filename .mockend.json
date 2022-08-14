@@ -18,6 +18,20 @@
         "Mercedes"
         ]
     },
+    "vendor_name": {
+      "string":[
+        "Falah Hassan",
+        "Bareq",
+        "Ahmed Mones"
+        "Asia Sama",
+        "Karrar",
+        "Taha",
+        "Jinan",
+        "Mohammed"
+        
+        
+        ]
+    },
     "description": {
       "loremParagraphs": {
         "minLength": 50,
