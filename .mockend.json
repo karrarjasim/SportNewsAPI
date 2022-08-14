@@ -11,11 +11,11 @@
     },
     "body": {
       "loremParagraphs": {
-        "minLength": 10,
-        "maxLength": 100
+        "minLength": 50,
+        "maxLength": 400
       }
     },
-    "likes": { "int": { "min": 0, "max": 990000 } } ,
+    "price": { "int": { "min": 0, "max": 990000 } } ,
     "isDraft": {
       "boolean": {}
     },
