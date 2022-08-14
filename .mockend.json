@@ -30,7 +30,11 @@
         "Mohammed"
          ]
     },
-    "country":"Iraq",
+    "country":{
+      "string":[
+      "Iraq"
+      ]
+    }
      "city": {
       "string":[
         "Mosul",
