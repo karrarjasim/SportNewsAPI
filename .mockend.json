@@ -1,5 +1,5 @@
 {
-  "Car": {
+  "News": {
   "imageUrl": {
     "string": [
       "https://www.freeiconspng.com/uploads/land-rover-range-rover-car-png-25.png",
@@ -10,7 +10,7 @@
       "https://pngimg.com/uploads/kia/kia_PNG27.png"
     ]
   },
-    "name": {
+    "title": {
       "string":[
         "Honda",
         "KIA",
@@ -53,7 +53,7 @@
     },
     "price": { "int": { "min": 0, "max": 99000 } } ,
     "speed": { "int": { "min": 100, "max": 260 } } ,
-    "createdAt": {
+    "created_at": {
       "dateTime": {
         "min": "2021-01-01T00:00:00Z",
         "max": "2022-12-31T23:59:59Z"
